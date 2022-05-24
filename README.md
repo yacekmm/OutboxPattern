@@ -15,4 +15,4 @@ The story is about asynchronous communication with eventual consistency guarante
 Story based on a case of integrating two very different systems in technical terms. I will list what benefits you get for free, what problems you get for free, when making a decision to go with Outbox. So that you know what to expect
 
 # Recordings
-See blog entry: 
+See blog entry: [https://looksok.wordpress.com/2022/05/24/outbox-pattern-when-simple-api-call-is-not-enough/](https://looksok.wordpress.com/2022/05/24/outbox-pattern-when-simple-api-call-is-not-enough/)
