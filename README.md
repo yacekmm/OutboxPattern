@@ -1,6 +1,10 @@
 # OutboxPattern: When simple API call is not enough
 Conference materials from Conference speech about Outbox Integration Pattern
 
+# Slides
+See pdf and pptx files on this repository
+
+
 # Abstract
 Here we are again: You need to call external API. What is your first approach? If it's friday - call simple sync REST and enjoy :) Implementation is simple, tests implemented instanty.
 
